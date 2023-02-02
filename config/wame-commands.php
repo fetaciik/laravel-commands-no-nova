@@ -20,7 +20,6 @@ return [
 //        'listeners' => false,
 //        'migration' => false,
 //        'model' => false,
-//        'nova' => false,
 //        'observer' => false,
     ],
 ];
