@@ -42,7 +42,6 @@ class LaravelCommandsServiceProvider extends ServiceProvider
                 'Wame\LaravelCommands\Console\Commands\WameMake',
                 'Wame\LaravelCommands\Console\Commands\WameMigration',
                 'Wame\LaravelCommands\Console\Commands\WameModel',
-                'Wame\LaravelCommands\Console\Commands\WameNova',
                 'Wame\LaravelCommands\Console\Commands\WameObserver',
             ]);
         }
